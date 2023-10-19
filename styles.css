@@ -68,7 +68,6 @@ h2 {
     letter-spacing: 1.5px;
 }
 
-/* Responsive styles for smaller screens */
 @media (max-width: 768px) {
     h1 {
         font-size: 2rem;
